@@ -1,0 +1,14 @@
+{
+  "name": "musti/test-php-musti",
+  "version": "1.0.0",
+  "type": "library",
+  "description": "Php testt",
+  "keywords": [
+  ],
+  "homepage": "https://www.musti.com/",
+  "license": "Apache-2.0",
+  "require": {
+    "php": ">=7.0",
+    "ext-json": "*"
+  }
+}
